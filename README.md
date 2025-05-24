@@ -61,6 +61,6 @@ quietly powerful. clean. intentional.
 <p align="center">
   thanks for stopping by — always open to meaningful connections and cool collabs.
   <br><br>
-  📫 reach me at: <a href="mailto:venkataabhijitha@gmail.com">venkataabhijitha@gmail.com</a>  
+  📫 reach me at: <a href="mailto:v.abhijitha3@gmail.com">v.abhijitha3@gmail.com</a>  
   🔗 connect on <a href="https://www.linkedin.com/in/venkata-abhijitha/">LinkedIn</a>
 </p>
