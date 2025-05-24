@@ -56,7 +56,6 @@ quietly powerful. clean. intentional.
 
 ---
 
----
 
 <p align="center">
   thanks for stopping by — always open to meaningful connections and cool collabs.
