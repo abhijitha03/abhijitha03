@@ -1,9 +1,9 @@
-<h1 align="center">hey, i'm abhijitha 🚀</h1>
+<h1 align="center">umm...i'm abhijitha</h1>
 <p align="center"><i>navigating the ML galaxy, one model at a time</i></p>
 
 ---
 
-### 🌌 who am i?
+###  who am i?
 
 i'm currently orbiting through my B.Tech in computer science (with a focus on AIML) —  
 trying to connect the dots between logic, intuition, and impact.  
@@ -17,7 +17,7 @@ quietly powerful. clean. intentional.
 
 ---
 
-### 🧠 what fuels me
+### what fuels me
 
 - exploring how machines learn and *why* they fail  
 - tweaking models until they start acting like they “get it”  
@@ -27,16 +27,17 @@ quietly powerful. clean. intentional.
 
 ---
 
-### 🔧 tools in my current flight pack
+### tools in my current flight pack
 
-`Python` · `TensorFlow` · `Pandas` · `Sklearn`  
-`HTML` · `CSS` · `JavaScript` · `SQL`  
-
+`Python` · `C` · `TensorFlow` · `Sklearn` · `Pandas`  
+`Neural Networks` · `Machine Learning` · `Artificial Intelligence`  
+`HTML` · `CSS` · `JavaScript` · `Frontend Dev`  
+`UI/UX Design` · `SQL`
 (and the occasional `CTRL + Z` when things crash mid-orbit)
 
 ---
 
-### 🪐 philosophies i live by
+### philosophies i live by
 
 > "code is like space — mostly silent, but filled with potential."  
 
@@ -46,7 +47,7 @@ quietly powerful. clean. intentional.
 
 ---
 
-### 👀 where i'm headed
+###  where i'm headed
 
 - growing systems that grow with people  
 - building for clarity, not just complexity  
@@ -55,8 +56,11 @@ quietly powerful. clean. intentional.
 
 ---
 
+---
+
 <p align="center">
-  earth-based. cloud-deployed. space-dreaming.  
-  <br>
-  let’s keep exploring 🌠
+  thanks for stopping by — always open to meaningful connections and cool collabs.
+  <br><br>
+  📫 reach me at: <a href="mailto:venkataabhijitha@gmail.com">venkataabhijitha@gmail.com</a>  
+  🔗 connect on <a href="https://www.linkedin.com/in/venkata-abhijitha/">LinkedIn</a>
 </p>
