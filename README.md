@@ -1,16 +1,16 @@
 <h1 align="center">umm...i'm abhijitha</h1>
-<p align="center"><i>navigating the ML galaxy, one model at a time</i></p>
+<p align="center"><i>finding clarity in complexity</i></p>
 
 ---
 
 ###  who am i?
 
-i'm currently orbiting through my B.Tech in computer science (with a focus on AIML) —  
+i'm currently pursuing my B.Tech in computer science (with a focus on AIML) —  
 trying to connect the dots between logic, intuition, and impact.  
 
 i’m all about building things that just *make sense*.  
 from machine learning models that quietly solve complex problems  
-to interfaces that feel smoother than low-Earth orbit.
+to interfaces that feel smooth typing on your favorite keyboard
 
 i believe good code doesn't scream for attention — it flows.  
 quietly powerful. clean. intentional.
@@ -27,13 +27,13 @@ quietly powerful. clean. intentional.
 
 ---
 
-### tools in my current flight pack
+### stacking with
 
 `Python` · `C` · `TensorFlow` · `Sklearn` · `Pandas`  
 `Neural Networks` · `Machine Learning` · `Artificial Intelligence`  
 `HTML` · `CSS` · `JavaScript` · `Frontend Dev`  
 `UI/UX Design` · `SQL`
-(and the occasional `CTRL + Z` when things crash mid-orbit)
+(and the occasional `CTRL + Z` when things crash)
 
 ---
 
