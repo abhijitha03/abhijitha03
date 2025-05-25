@@ -10,7 +10,7 @@ trying to connect the dots between logic, intuition, and impact.
 
 i’m all about building things that just *make sense*.  
 from machine learning models that quietly solve complex problems  
-to interfaces that feel smooth typing on your favorite keyboard
+to interfaces that feel smooth like typing on your favorite keyboard
 
 i believe good code doesn't scream for attention — it flows.  
 quietly powerful. clean. intentional.
