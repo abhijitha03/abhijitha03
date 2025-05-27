@@ -5,14 +5,14 @@
 
 ###  who am i?
 
-i'm currently pursuing my B.Tech in computer science (with a focus on AIML) —  
+i'm currently pursuing my B.Tech in computer science (with a focus on AIML) 
 trying to connect the dots between logic, intuition, and impact.  
 
 i’m all about building things that just *make sense*.  
 from machine learning models that quietly solve complex problems  
 to interfaces that feel smooth like typing on your favorite keyboard
 
-i believe good code doesn't scream for attention — it flows.  
+i believe good code doesn't scream for attention  it flows.  
 quietly powerful. clean. intentional.
 
 ---
@@ -39,7 +39,7 @@ quietly powerful. clean. intentional.
 
 ### philosophies i live by
 
-> "code is like space — mostly silent, but filled with potential."  
+> "code is like space  mostly silent, but filled with potential."  
 
 > "if the problem seems too big, zoom out. look at the bigger picture."
 
@@ -58,7 +58,7 @@ quietly powerful. clean. intentional.
 
 
 <p align="center">
-  thanks for stopping by — always open to meaningful connections and cool collabs.
+  thanks for stopping by  always open to meaningful connections and cool collabs.
   <br><br>
   reach me at: <a href="mailto:v.abhijitha3@gmail.com">v.abhijitha3@gmail.com</a>  
   🔗 connect on <a href="https://www.linkedin.com/in/venkata-abhijitha/">LinkedIn</a>
